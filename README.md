@@ -28,7 +28,7 @@ python --version
 2. Navigate to the repository's directory:
 
 ```bash
-cd path_to_directory
+cd valentineautomation
 ```
 
 3. Install the required Python packages using:
